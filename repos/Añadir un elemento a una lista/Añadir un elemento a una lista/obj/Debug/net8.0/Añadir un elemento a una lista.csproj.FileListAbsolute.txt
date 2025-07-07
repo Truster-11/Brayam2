@@ -1,0 +1,14 @@
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\bin\Debug\net8.0\Añadir un elemento a una lista.exe
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\bin\Debug\net8.0\Añadir un elemento a una lista.deps.json
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\bin\Debug\net8.0\Añadir un elemento a una lista.runtimeconfig.json
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\bin\Debug\net8.0\Añadir un elemento a una lista.dll
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\bin\Debug\net8.0\Añadir un elemento a una lista.pdb
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.AssemblyInfoInputs.cache
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.AssemblyInfo.cs
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.csproj.CoreCompileInputs.cache
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.dll
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\refint\Añadir un elemento a una lista.dll
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.pdb
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\Añadir un elemento a una lista.genruntimeconfig.cache
+C:\Users\Brayam\source\repos\Añadir un elemento a una lista\Añadir un elemento a una lista\obj\Debug\net8.0\ref\Añadir un elemento a una lista.dll

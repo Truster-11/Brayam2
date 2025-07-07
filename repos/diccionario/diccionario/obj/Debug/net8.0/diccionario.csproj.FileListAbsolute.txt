@@ -1,0 +1,14 @@
+C:\Users\Brayam\source\repos\diccionario\diccionario\bin\Debug\net8.0\diccionario.exe
+C:\Users\Brayam\source\repos\diccionario\diccionario\bin\Debug\net8.0\diccionario.deps.json
+C:\Users\Brayam\source\repos\diccionario\diccionario\bin\Debug\net8.0\diccionario.runtimeconfig.json
+C:\Users\Brayam\source\repos\diccionario\diccionario\bin\Debug\net8.0\diccionario.dll
+C:\Users\Brayam\source\repos\diccionario\diccionario\bin\Debug\net8.0\diccionario.pdb
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.AssemblyInfoInputs.cache
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.AssemblyInfo.cs
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.csproj.CoreCompileInputs.cache
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.dll
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\refint\diccionario.dll
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.pdb
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\diccionario.genruntimeconfig.cache
+C:\Users\Brayam\source\repos\diccionario\diccionario\obj\Debug\net8.0\ref\diccionario.dll

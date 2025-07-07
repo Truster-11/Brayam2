@@ -1,0 +1,14 @@
+C:\Users\Brayam\source\repos\pedidos\pedidos\bin\Debug\net8.0\pedidos.exe
+C:\Users\Brayam\source\repos\pedidos\pedidos\bin\Debug\net8.0\pedidos.deps.json
+C:\Users\Brayam\source\repos\pedidos\pedidos\bin\Debug\net8.0\pedidos.runtimeconfig.json
+C:\Users\Brayam\source\repos\pedidos\pedidos\bin\Debug\net8.0\pedidos.dll
+C:\Users\Brayam\source\repos\pedidos\pedidos\bin\Debug\net8.0\pedidos.pdb
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.AssemblyInfoInputs.cache
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.AssemblyInfo.cs
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.dll
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\refint\pedidos.dll
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.pdb
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\pedidos.genruntimeconfig.cache
+C:\Users\Brayam\source\repos\pedidos\pedidos\obj\Debug\net8.0\ref\pedidos.dll
